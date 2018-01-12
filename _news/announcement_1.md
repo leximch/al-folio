@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2017-09-21 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Started M.A. in Anthropology at GSU.

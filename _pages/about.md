@@ -1,23 +1,31 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Alexandra</strong> Chace
+description: M.A. Student in Anthropology, <a href="">Georgia State University</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm an anthropology graduate student at Georgia State University in Atlanta.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests include:
+- Women's health disparities in the Deep South
+- Rural LGBT identity 
+- Italian diaspora communities in the Americas
+- Post military junta Argentina
+- Postcolonialism
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm also a developer with experience in a wide range of technologies, including:
+- Ruby
+- Python
+- Java
+- HTML/CSS
+- React
+
+Oh, and I take photos occasionally. [Check them out](https://500px.com/leximch).
