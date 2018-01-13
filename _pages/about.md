@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Alexandra</strong> Chace
-description: M.A. Student in Anthropology, <a href="">Georgia State University</a>.
+description: Grad Student in Anthropology, <a href="">Georgia State University</a>.
 
 profile:
   align: right
