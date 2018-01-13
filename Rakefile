@@ -1,5 +1,7 @@
 desc "Commit _site/"
 task :commit do
+  puts "\n## Building Site"
+  system("bundle exec jekyll build")
   puts "\n## Staging modified files"
   status = system("git add -A")
   puts status ? "Success" : "Failed"
