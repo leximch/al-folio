@@ -85,7 +85,7 @@ scholar:
 
   last_name: Chace
 
-  style: apa
+  style: chicago-author-date
   locale: en
 
   sort_by: year
