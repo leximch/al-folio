@@ -338,13 +338,13 @@ footer a:hover { color: #c187a7; }
 
 .page-content { padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */ }
 
-.page-heading { font-size: 20px; }
+.page-heading { padding-top: 10px; font-size: 20px; }
 
 .contacticon { display: block; font-size: 60px; margin: 10px; }
 
 .center { text-align: center; }
 
-.post-header { margin-bottom: 40px; }
+.post-header { margin-bottom: 40px; padding-top: 10px; }
 
 .post-list { margin: 0; padding: 0; list-style: none; }
 .post-list > li { border-bottom: 1px solid #ccc; padding-bottom: 2rem; padding-top: 2rem; }
