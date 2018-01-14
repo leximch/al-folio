@@ -16,9 +16,9 @@ Hi! I'm an anthropology graduate student at Georgia State University in Atlanta.
 
 My research interests include:
 - Women's health disparities in the Deep South
-- Rural LGBT identity 
+- Southern LGBT identity 
 - Italian diaspora communities in the Americas
-- Post military junta Argentina
+- Neoliberalism and post military junta Argentina
 - Postcolonialism
 
 I'm also a developer with experience in a wide range of technologies, including:
