@@ -23,11 +23,10 @@
             {% if site.data.coauthors[author.last] %}
               <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.last}}, {{author.first}}</a>,
             {% else %}
-              {{author.last}}, {{author.first}},
+              {{author.last}}, {{author.first}};
             {% endif %}
           {% endif %}
         {% else %}
-          and
           {% if author.last == site.scholar.last_name %}
             <em>{{author.last}}, {{author.first}}</em>.
           {% else %}
@@ -45,7 +44,7 @@
     {% if entry.type == "article" %}
       <em>{{entry.journal}}</em>.
     {% elsif entry.type == "inproceedings" %}
-      <em>In {{entry.booktitle}}</em>.
+      <em>{{entry.booktitle}}</em>.
     {% endif %}
     {% if entry.year %}
       {{entry.year}}.
@@ -55,6 +54,8 @@
 
     <span class="periodical">
     {% if entry.type == "article" %}
+      {{entry.publisher}}.
+    {% elsif entry.type == "inproceedings" %}
       {{entry.publisher}}.
     {% endif %}
     </span>
