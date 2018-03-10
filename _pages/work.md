@@ -3,9 +3,13 @@ layout: page
 permalink: /work/
 title: work
 description: Academic publications & conference proceedings listed in reverse chronological order.
-conf_years: [2017]
+conf_years: [2018, 2017]
 pub_years: [2017]
 ---
+
+### Thesis
+  <h3 class="year">2019</h3>
+  {% bibliography -f papers -q @thesis[year=2019]* %}
 
 ### Conference Participation
 {% for y in page.conf_years %}

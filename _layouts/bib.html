@@ -10,7 +10,7 @@
 {% endif %}
 
 <div id="{{entry.key}}">
-  {% if entry.type == "thesis" %}
+  {% if entry.type == "thesisd" %}
     {{reference}}
   {% else %}
     <span class="title">{{entry.title}}</span>
@@ -46,14 +46,16 @@
     {% elsif entry.type == "inproceedings" %}
       <em>{{entry.booktitle}}</em>.
     {% endif %}
-    {% if entry.year %}
-      {{entry.year}}.
+    {% if entry.eventdate %}
+      {{entry.eventdate}}.
     {% endif %}
     </span>
   {% endif %}
 
     <span class="periodical">
     {% if entry.type == "article" %}
+      {{entry.publisher}}.
+    {% elsif entry.type == "thesis" %}
       {{entry.publisher}}.
     {% elsif entry.type == "inproceedings" %}
       {{entry.address}}.
