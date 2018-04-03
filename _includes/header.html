@@ -2,12 +2,12 @@
 
   <div class="wrapper">
 
-    {% if page.layout != "about" %}
-<!--     <span class="site-title">
+<!--     {% if page.layout != "about" %}
+    <span class="site-title">
         {% assign name = site.name | split: ' ' %}
         <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/"<strong>{{ name | first }}</strong> {{ name | last }}</a>
-    </span> -->
-    {% endif %}
+    </span>
+    {% endif %} -->
 
     <nav class="site-nav">
 
@@ -18,7 +18,7 @@
       {% endif %}
 
         <!-- Blog -->
-        <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a>
+        <!-- <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a> -->
 
         <!-- Pages -->
         {% for page in site.pages %}

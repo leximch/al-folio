@@ -33,7 +33,7 @@ blog_description: a collection of thoughts
 
 # Pagination
 paginate: 4
-permalink: /blog/:year/:title/
+permalink: /:year/:title/
 paginate_path: /blog/page:num/
 
 text:

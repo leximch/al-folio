@@ -324,7 +324,7 @@ body { box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: 
 .site-nav .page-link { line-height: 1.5; }
 .site-nav .page-link:not(:first-child) { margin-left: 10px; }
 
-.header-bar { border-bottom: 1px solid #ccc; font-size: 20px; display: block; opacity: 0.75; width: 100%; text-align: center; padding-top: 10px; padding-bottom: 1rem; line-height: 3em; z-index: 25; }
+.header-bar { border-bottom: 1px solid #ccc; font-size: 20px; display: block; opacity: 0.75; width: 100%; text-align: center; padding-top: 5px; padding-bottom: 1rem; line-height: 3em; z-index: 25; }
 .header-bar h1 { color: #c187a7; font-size: 75px; }
 .header-bar h2 { font-size: 25px; }
 
