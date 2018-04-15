@@ -52,6 +52,12 @@
     </span>
   {% endif %}
 
+  {% if entry.type == "thesis" %}
+    <span class="periodical">
+      <strong>Advisor:</strong> {{entry.advisor}}
+    </span>
+  {% endif %}
+
     <span class="periodical">
     {% if entry.type == "article" %}
       {{entry.publisher}}.
