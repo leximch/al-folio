@@ -12,21 +12,24 @@ news: true
 social: true
 ---
 
-Hi! I'm an anthropology graduate student at Georgia State University in Atlanta.
+Hi! I'm an M.A. student in the Department of Anthropology at Georgia State University.
 
-My research interests include:
+My thesis focuses on medicalized discourses of trans womanhood in the West, traced from the 19th century to the present. It investigates the biopolitics of trans womanhood, in which trans women are categorized, distinguished, and surveilled by the legal and medical apparatus. Further, it envisions these typologies as a rationale for a larger strategy of eugenics, aimed at reproducing dominant state ideologies, including capitalism, cisheteronormativity, and white supremacy.
+
+Other research interests more broadly include:
 - Artificial Intelligence & Society
 - Biopolitics
-- Gender & Class
-- Motherhood
 - Health & Power
+<!-- - Gender & Class -->
+- Motherhood
+- Technoethics
 - Transmisogyny
 
-I'm also a developer with experience in a wide range of technologies, including:
+<!-- I'm also a developer with experience in a wide range of technologies, including:
 - Ruby
 - Python
 - Java
 - HTML/CSS
-- React
+- React -->
 
-Oh, and I take photos occasionally. [Check them out](https://instagram.com/alxndramc).
+Also, I take photos occasionally. [Check them out](https://instagram.com/alxndramc).
