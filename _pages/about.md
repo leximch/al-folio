@@ -14,9 +14,7 @@ social: true
 
 Hi! I'm an M.A. student in the Department of Anthropology at Georgia State University.
 
-My thesis focuses on medicalized discourses of trans womanhood in the West, traced from the 19th century to the present. 
-
-It explores how medical frameworks that categorize, distinguish, and surveill trans women serve a larger strategy of social control, aimed at (re)producing dominant state ideologies, including capitalism and cisheteronormativity.
+My thesis focuses on medicalized discourses of trans womanhood in the West, traced from the 19th century to the present. It explores how medical frameworks that categorize, distinguish, and surveill trans women serve a larger strategy of social control, aimed at (re)producing dominant state ideologies, including capitalism and cisheteronormativity.
 
 Other research interests more broadly include:
 - Artificial Intelligence & Society
