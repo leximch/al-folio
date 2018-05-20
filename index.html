@@ -1,140 +1,248 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<!-- Begin Jekyll SEO tag v2.3.0 -->
-<title>al-folio | leximch.github.io</title>
-<meta property="og:title" content="al-folio" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="A beautiful Jekyll theme for academics" />
-<meta property="og:description" content="A beautiful Jekyll theme for academics" />
-<meta property="og:site_name" content="leximch.github.io" />
-<script type="application/ld+json">
-{"name":"leximch.github.io","description":"A beautiful Jekyll theme for academics","author":null,"@type":"WebSite","url":"/","publisher":null,"image":null,"headline":"al-folio","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
+  <title>Alexandra Chace</title>
+  <meta name="description" content="Atlanta-based Anthropology grad student.
+">
 
-    <link href="/assets/css/style.css?v=ed6d9eff9955e0f88b59728dfcbb97af71104fb7" rel="stylesheet">
-  </head>
+  <link rel="shortcut icon" href="https://leximch.github.io//assets/img/favicon.ico">
+
+  <link rel="stylesheet" href="https://leximch.github.io//assets/css/main.css">
+  <link rel="canonical" href="https://leximch.github.io//">
+</head>
+
+
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-        <h1><a href="/">leximch.github.io</a></h1>
-      
 
-      <h1 id="al-folio">al-folio</h1>
+    <header class="site-header">
 
-<p><a href="https://alshedivat.github.io/al-folio/"><img src="https://img.shields.io/badge/theme-demo-brightgreen.svg" alt="demo" /></a>
-<a href="https://github.com/alshedivat/al-folio/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000" alt="license" /></a></p>
+  <div class="wrapper">
 
-<p>A simple and clean <a href="https://jekyllrb.com/">Jekyll</a> theme for academics.</p>
+<!--      -->
 
-<p><a href="https://alshedivat.github.io/al-folio/"><img src="/assets/img/full-screenshot.png" alt="Screenshot" /></a></p>
+    <nav class="site-nav">
 
-<p>Originally, <strong>al-folio</strong> was based on the <a href="https://github.com/bogoli/-folio">*folio theme</a> (published by <a href="http://liabogoev.com">Lia Bogoev</a> and under the MIT license).
-Since then, it got a full re-write of the styles and many additional cool features.
-The emphasis is on whitespace, transparency, and academic usage: <a href="https://alshedivat.github.io/al-folio/">theme demo</a>.</p>
-
-<h2 id="getting-started">Getting started</h2>
-
-<p>For more about how to use Jekyll, check out <a href="https://www.taniarascia.com/make-a-static-website-with-jekyll/">this tutorial</a>.
-Why Jekyll? Read this <a href="https://karpathy.github.io/2014/07/01/switching-to-jekyll/">blog post</a>!</p>
-
-<h3 id="installation">Installation</h3>
-
-<p>Assuming you have <a href="https://www.ruby-lang.org/en/downloads/">Ruby</a> and <a href="https://bundler.io/">Bundler</a> installed on your system (<em>hint: for ease of managing ruby gems, consider using <a href="https://github.com/rbenv/rbenv">rbenv</a></em>), first fork the theme from <code class="highlighter-rouge">github.com:alshedivat/al-folio</code> to <code class="highlighter-rouge">github.com:&lt;your-username&gt;/&lt;your-repo-name&gt;</code> and do the following:</p>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git clone git@github.com:&lt;your-username&gt;/&lt;your-repo-name&gt;.git
-<span class="nv">$ </span><span class="nb">cd</span> &lt;your-repo-name&gt;
-<span class="nv">$ </span>bundle install
-<span class="nv">$ </span>bundle <span class="nb">exec </span>jekyll serve
-</code></pre></div></div>
-
-<p>Now, feel free to customize the theme however you like (don’t forget to change the name!).
-After you are done, <strong>commit</strong> your final changes.
-Now, you can deploy your website to <a href="https://pages.github.com/">GitHub Pages</a> by running the deploy script:</p>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>./bin/deploy <span class="o">[</span><span class="nt">--user</span><span class="o">]</span>
-</code></pre></div></div>
-<p>By default, the script uses the <code class="highlighter-rouge">master</code> branch for the source code and deploys the webpage to <code class="highlighter-rouge">gh-pages</code>.
-The optional flag <code class="highlighter-rouge">--user</code> tells it to deploy to <code class="highlighter-rouge">master</code> and use <code class="highlighter-rouge">source</code> for the source code instead.
-Using <code class="highlighter-rouge">master</code> for deployment is a convention for <a href="https://help.github.com/articles/user-organization-and-project-pages/">user and organization pages</a>.</p>
-
-<p><strong>Note:</strong> when deploying your user or organization page, make the <code class="highlighter-rouge">_config.yml</code> has <code class="highlighter-rouge">url</code> and <code class="highlighter-rouge">baseurl</code> fields as follows.</p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>url: # should be empty
-baseurl:  # should be empty
-</code></pre></div></div>
-
-<h2 id="features">Features</h2>
-
-<h4 id="ergonomic-publications">Ergonomic Publications</h4>
-
-<p>Your publications page is generated automatically from your BibTex bibliography.
-Simply edit <code class="highlighter-rouge">_bibliography/papers.bib</code>.
-You can also add new <code class="highlighter-rouge">*.bib</code> files and customize the look of your publications however you like by editing <code class="highlighter-rouge">_pages/publications.md</code>.</p>
-
-<p>Keep meta-information about your co-authors in <code class="highlighter-rouge">_data/coauthors.yml</code> and Jekyll will insert links to their webpages automatically.</p>
-
-<h4 id="collections">Collections</h4>
-<p>This Jekyll theme implements collections to let you break up your work into categories.
-The example is divided into news and projects, but easily revamp this into apps, short stories, courses, or whatever your creative work is.</p>
-
-<blockquote>
-  <p>To do this, edit the collections in the <code class="highlighter-rouge">_config.yml</code> file, create a corresponding folder, and create a landing page for your collection, similar to <code class="highlighter-rouge">_pages/projects.md</code>.</p>
-</blockquote>
-
-<p>Two different layouts are included: the blog layout, for a list of detailed descriptive list of entries, and the projects layout.
-The projects layout overlays a descriptive hoverover on a background image.
-If no image is provided, the square is auto-filled with the chosen theme color.
-Thumbnail sizing is not necessary, as the grid crops images perfectly.</p>
-
-<h4 id="theming">Theming</h4>
-<p>Six beautiful theme colors have been selected to choose from.
-The default is purple, but quickly change it by editing <code class="highlighter-rouge">$theme-color</code> variable in the <code class="highlighter-rouge">_sass/variables.scss</code> file (line 72).
-Other color variables are listed there, as well.</p>
-
-<h4 id="photos">Photos</h4>
-<p>Photo formatting is made simple using rows of a 3-column system.
-Make photos 1/3, 2/3, or full width.
-Easily create beautiful grids within your blog posts and projects pages:</p>
-
-<p align="center">
-  <a href="https://alshedivat.github.io/al-folio/projects/1_project/">
-    <img src="assets/img/photos-screenshot.png" width="75%" />
-  </a>
-</p>
-
-<h4 id="code-highlighting">Code Highlighting</h4>
-<p>This theme implements Jekyll’s built in code syntax highlighting with Pygments.
-Just use the liquid tags `</p>
-<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="sb">` and `</span></code></pre></figure>
-<p>` to delineate your code:</p>
-
-<p align="center">
-  <a href="https://alshedivat.github.io/al-folio/blog/2015/code/">
-    <img src="assets/img/code-screenshot.png" width="75%" />
-  </a>
-</p>
-
-<h2 id="contributing">Contributing</h2>
-
-<p>Feel free to contribute new features and theme improvements by sending a pull request.
-Style improvements and bug fixes are especially welcome.</p>
-
-<h2 id="license">License</h2>
-
-<p>MIT</p>
-
+      <div class="trigger">
 
       
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        This site is open source. <a href="http://github.com/leximch/leximch.github.io/edit/gh-pages/README.md">Improve this page</a>.
+
+        <!-- Blog -->
+        <!-- <a class="page-link" href="https://leximch.github.io//blog/">blog</a> -->
+
+        <!-- Pages -->
+        
+          
+        
+          
+            <a class="page-link" href="https://leximch.github.io//blog/">blog</a>
+          
+        
+          
+        
+          
+            <a class="page-link" href="https://leximch.github.io//work/">work</a>
+          
+        
+          
+        
+
+        <!-- CV link -->
+        <a class="page-link" href="https://leximch.github.io//assets/pdf/cv.pdf">cv</a>
+
       </div>
-      
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title"><strong>Alexandra</strong> Chace</h1>
+    <h5 class="post-description">M.A. Student; <a href="http://anthropology.gsu.edu">Dept. of Anthropology</a>; <a href="http://www.gsu.edu">Georgia State University</a>.</h5>
+  </header>
+
+  <article class="post-content <strong>Alexandra</strong> Chace clearfix">
+    
+  <div class="profile col one right">
+    
+      <img class="one" src="https://leximch.github.io//assets/img/prof_pic.jpg">
+    
+    
+  </div>
+
+
+<p>Hi! I’m an M.A. student in the Department of Anthropology at Georgia State University.</p>
+
+<p>My thesis focuses on medicalized discourses of trans womanhood in the West, traced from the 19th century to the present. It investigates the biopolitics of trans womanhood, in which trans women are categorized, distinguished, and surveilled by the legal and medical apparatus. Further, it envisions these typologies as a rationale for a larger strategy of eugenics, aimed at reproducing dominant state ideologies, including capitalism, cisheteronormativity, and white supremacy.</p>
+
+<p>Other research interests more broadly include:</p>
+<ul>
+  <li>Artificial Intelligence &amp; Society</li>
+  <li>Biopolitics</li>
+  <li>Health &amp; Power
+<!-- - Gender & Class --></li>
+  <li>Motherhood</li>
+  <li>Technoethics</li>
+  <li>Transmisogyny</li>
+</ul>
+
+<!-- I'm also a developer with experience in a wide range of technologies, including:
+- Ruby
+- Python
+- Java
+- HTML/CSS
+- React -->
+
+<p>Also, I take photos occasionally. <a href="https://instagram.com/alxndramc">Check them out</a>.</p>
+
+
+  </article>
+
+  
+    <div class="news">
+  <h2>events</h2>
+  
+    <table>
+    
+    
+      <tr>
+        <td class="date">May 15, 2018</td>
+        <td class="announcement">
+          
+            <strong>Transgender: From the Clinic to the Protest</strong>. Guest lecture in <em>Sex, Culture, and Society</em> at Georgia State University.
+
+[<a href="/assets/pdf/clinic_to_protest.pdf">Slides</a>]
+
+          
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="date">Apr 20, 2018</td>
+        <td class="announcement">
+          
+            <strong>Cyber-Eugenics and the Biopolitics of Biotechnology</strong>. Paper presentation at the <em>Southern Anthropological Society Annual Meeting</em> in Chattanooga, Tennessee.
+
+[<a href="/assets/pdf/cyber-eugenics.pdf">Slides</a>]
+
+          
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="date">Aug 21, 2017</td>
+        <td class="announcement">
+          
+            Started M.A. in Anthropology at GSU.
+
+          
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="date">May 2, 2017</td>
+        <td class="announcement">
+          
+            Graduated w/ B.A. in Applied Linguistics from GSU.
+
+          
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="date">Aug 24, 2013</td>
+        <td class="announcement">
+          
+            Moved to Atlanta.
+
+          
+        </td>
+      </tr>
+    
+    </table>
+  
+</div>
+
+  
+
+  
+    <div class="social">
+  <span class="contacticon center">
+    <a href="mailto:achacega@gmail.com"><i class="fa fa-envelope"></i></a>
+    <a href="https://scholar.google.com/citations?user=E0qxRfYAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a href="https://github.com/leximch" target="_blank" title="GitHub"><i class="fa fa-github"></i></a>
+    <a href="https://instagram.com/alxndramc" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a>
+    <a href="https://www.linkedin.com/in/leximch" target="_blank" title="LinkedIn"><i class="fa fa-linkedin"></i></a>
+    <a href="https://twitter.com/leximch" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a>
+  </span>
+
+  <div class="col three caption">
+    Best reached via email.
+
+  </div>
+</div>
+
+  
+
+</div>
+
+      </div>
     </div>
-    <script src="/assets/javascript/anchor-js/anchor.min.js"></script>
-    <script>anchors.add();</script>
+
+    <footer>
+
+  <div class="wrapper">
+    &copy; Copyright 2018 Alexandra Chace.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+    
+  </div>
+
+</footer>
+
+
+    <!-- Load jQuery -->
+<script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
+
+<!-- Load Common JS -->
+<script src="https://leximch.github.io//assets/js/common.js"></script>
+
+
+<!-- Load KaTeX -->
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
+<script src="https://leximch.github.io//assets/js/katex.js"></script>
+
+
+
+
+<!-- Include custom icon fonts -->
+<link rel="stylesheet" href="https://leximch.github.io//assets/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://leximch.github.io//assets/css/academicons.min.css">
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-XXXXXXXXX', 'auto');
+ga('send', 'pageview');
+</script>
+
+
   </body>
+
 </html>
