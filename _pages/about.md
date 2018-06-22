@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Alexandra</strong> Chace
-description: M.A. Student; <a href="http://anthropology.gsu.edu">Dept. of Anthropology</a>; <a href="http://www.gsu.edu">Georgia State University</a>.
+description: M.A. Student in the Dept. of Anthropolgoy at Georgia State.
 
 profile:
   align: right
