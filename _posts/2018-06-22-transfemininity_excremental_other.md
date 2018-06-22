@@ -1,5 +1,5 @@
 ---
-title: Transfemininity as an Excremental Other
+title: The Feminine as an Excremental Other
 date: 2018-06-22 12:50:00 Z
 layout: post
 description: Notes on "repulsive" characterizations of transfemininity and potential springboards for coalitional trans-feminist activism.
