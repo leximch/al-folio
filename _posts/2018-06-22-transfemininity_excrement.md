@@ -1,8 +1,8 @@
 ---
-title: The Feminine as an Excremental Other
+title: Femininity as Excrement
 date: 2018-06-22 12:50:00 Z
 layout: post
-description: Notes on "repulsive" characterizations of transfemininity and potential springboards for coalitional trans-feminist activism.
+description: Notes on "repulsive" characterizations of (trans)femininity and potential springboards for coalitional feminist/trans activism.
 keywords: transgender, femininity, identity, masculinity, women, transmisogyny, philosophy
 ---
 
