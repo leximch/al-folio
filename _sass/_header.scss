@@ -11,8 +11,10 @@
 
 .site-title {
     font-size: 20px;
+    font: PT Sans, sans-serif;
+    font-weight: bold;
     line-height: $nav-height;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     margin-bottom: 0;
 }
 .site-nav {
