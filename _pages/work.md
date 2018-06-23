@@ -1,11 +1,13 @@
 ---
 layout: page
-permalink: /work/
-title: work
+permalink: /vitae/
+title: Vitae
 description: Academic publications & conference proceedings listed in reverse chronological order.
 conf_years: [2018, 2017]
 pub_years: [2017]
 ---
+
+[Curriculum Vitae (PDF)](/assets/pdf/cv.pdf).
 
 ### Thesis
   <h3 class="year">2019</h3>

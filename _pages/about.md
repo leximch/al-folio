@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Alexandra</strong> Chace
-description: M.A. Student in the Dept. of Anthropolgoy at Georgia State.
+description: M.A. Student in the Dept. of Anthropology at Georgia State University.
 
 profile:
   align: right
