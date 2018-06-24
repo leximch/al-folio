@@ -1,7 +1,7 @@
 .site-header {
     border-bottom: 1px solid $grey-color-light;
     background-color: #fff;
-    opacity: 0.95;
+    opacity: 1.0;
     position:fixed;
     left:0px;
     top:0px;
@@ -10,7 +10,7 @@
 }
 
 .site-title {
-    font-size: 20px;
+    font-size: 22px;
     font: PT Sans, sans-serif;
     font-weight: bold;
     line-height: $nav-height;
@@ -43,7 +43,7 @@
 }
 
 .header-bar{
-    border-bottom: 1px solid $light-gray;
+    border-bottom: 1px solid $mid-gray;
     font-size: 20px;
     display: block;
     opacity: 0.75;
