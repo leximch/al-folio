@@ -15,6 +15,7 @@ This dichotomy is not new to feminism: in 1970, the Radicalesbians already theor
 We must understand that being a “man” is necessarily a process of abjection, characterized by “an “expulsion” followed by a “repulsion” that founds and consolidates culturally hegemonic identities along sex/race/sexuality axes of differentiation”.[^4] This abjected femininity is “expelled from the body, discharged as excrement, literally rendered “Other””.[^5] Vaid-Menon asks that we think of this as a process, taking place day after day:
 
 > Promise me you understand that I wasn’t just assigned male at birth, I’m assigned male every day walking on the street. Promise me you understand that as a form of gender violence.[^6]
+
 In effect, “assigning” oneself male or being assigned so by others is to purge or be purged of all femininity. It is a process by which femininity is rendered invisible, impossible, and elsewhere. Although this purging “appears as an expulsion of alien elements”, it is actually the process wherein “the alien is effectively established”.[^7] This construction of the “me” and “not-me” (or, perhaps: the “you” and “not-you”) “establishes the boundaries of the body which are also the first contours of the subject”.[^8] 
 
 However, as the existence of feminine men, trans femmes, and trans women suggests, these boundaries ought not be taken for granted, and this “division [between] the “inner” and the “outer” worlds of the subject” is “maintained for the purposes of social regulation and control”. Butler writes:
