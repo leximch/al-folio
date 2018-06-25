@@ -11,9 +11,11 @@ a {
 article a, .news a {
     color: $theme-color;
     font-weight: 100;
+    text-decoration: underline;
 
     &:hover {
         text-decoration: underline;
+        color: black;
     }
 }
 

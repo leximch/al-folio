@@ -13,7 +13,7 @@
   {% if entry.type == "thesisd" %}
     {{reference}}
   {% else %}
-    <span class="title">{{entry.title}}</span>
+    <span class="title">{{entry.title}}.</span>
     <span class="author">
       {% for author in entry.author_array %}
         {% unless forloop.last %}
@@ -28,7 +28,10 @@
           {% endif %}
         {% else %}
           {% if author.last == site.scholar.last_name %}
-            <em>{{author.last}}, {{author.first}}</em>.
+            {% if entry.author_array.size == 1 %}
+            {% else %}
+              <em>{{author.last}}, {{author.first}}</em>.
+            {% endif %}
           {% else %}
             {% if site.data.coauthors[author.last] %}
               <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.last}}, {{author.first}}</a>.
@@ -54,7 +57,7 @@
 
   {% if entry.type == "thesis" %}
     <span class="periodical">
-      <strong>Advisor:</strong> {{entry.advisor}}
+      <strong>Advisor:</strong> {{entry.advisor}}.
     </span>
   {% endif %}
 
