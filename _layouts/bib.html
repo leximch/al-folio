@@ -104,7 +104,7 @@
   <!-- Hidden abstract block -->
   {% if entry.abstract %}
   <span class="abstract hidden">
-    <p>{{ entry.abstract }}</p>
+    <p>{{ entry.abstract|markdownify }}</p>
   </span>
   {% endif %}
 </div>

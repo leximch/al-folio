@@ -14,7 +14,7 @@ social: true
 
 Hi! I'm an M.A. student in the Department of Anthropology at Georgia State University.
 
-My thesis draws from film studies, psychoanalysis, queer theory, and trans/lesbian feminisms to investigate gender violence through film representation of gender and gender variance.
+My thesis research draws from affect theory, feminist psychoanalysis, and trans feminism in an account of the social and psychological construction of gender violence through representation in horror films.
 
 Other research interests more broadly include:
 - Affect Theory & Self
