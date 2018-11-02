@@ -2,7 +2,7 @@
 layout: page
 permalink: /vitae/
 title: Vitae
-description: Academic publications & conference proceedings listed in reverse chronological order.
+description: Academic publications & conference proceedings in reverse chronological order.
 conf_years: [2019, 2018, 2017]
 pub_years: [2017]
 ---
