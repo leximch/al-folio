@@ -402,12 +402,12 @@ footer a:hover { color: #666; }
 
 .button-disabled:hover, .button-disabled:active, .button-disabled:focus { cursor: not-allowed; background-color: #999; }
 
-.publications h2 { color: #666; font-size: 32px; margin-bottom: 30px; text-align: center; }
+.publications h2 { color: #666; font-size: 32px; margin-bottom: 10px; margin-top: 0px; text-align: center; }
 
 .year { border-top: 1px solid #ccc; color: #ccc; margin: 0 -3em -2.5ex -2em; padding-top: 1ex; text-align: right; }
 
-.bibliography { margin-bottom: 50px; margin-top: 20px; list-style-type: square; }
-.bibliography li { margin: 10px 0; position: relative; }
+.bibliography { margin-bottom: 5px; margin-top: 5px; list-style-type: none; }
+.bibliography li { margin: 2px 0; position: relative; padding: 0; }
 .bibliography li span { display: block; }
 .bibliography li .title { font-weight: bold; font-family: PT Sans, sans-serif; letter-spacing: 0px; }
 .bibliography li .author a { border-bottom: 1px dashed #666; }
