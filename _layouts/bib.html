@@ -57,10 +57,10 @@
 
   {% if entry.type == "thesis" %}
     <span class="periodical">
-      <strong>Advisor:</strong> {{entry.advisor}}.
+      Advisor: {{entry.advisor}}.
     </span>
     <span class="periodical">
-      <strong>Committee:</strong> {{entry.committee}}.
+      Committee: {{entry.committee}}.
     </span>
   {% endif %}
 
@@ -68,7 +68,6 @@
     {% if entry.type == "article" %}
       {{entry.publisher}}.
     {% elsif entry.type == "thesis" %}
-      {{entry.publisher}}.
     {% elsif entry.type == "inproceedings" %}
       {{entry.address}}.
     {% endif %}
