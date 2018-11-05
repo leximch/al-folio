@@ -13,7 +13,7 @@ pub_years: [2017]
   <h3 class="year">2019</h3>
   {% bibliography -f papers -q @thesis[year=2019]* %}
 
-### Conference Participation
+### Conference Papers
 {% for y in page.conf_years %}
   <h3 class="year">{{y}}</h3>
   {% bibliography -f papers -q @inproceedings[year={{y}}]* %}
