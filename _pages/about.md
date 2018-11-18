@@ -8,15 +8,15 @@ profile:
   align: right
   image: prof_pic.jpg
 
-news: true
+news: false
 social: true
 ---
 
-Hi! I'm an M.A. student in the Department of Anthropology at Georgia State University.
+Hi! I am primarily a linguist and cultural anthropologist, but my work extends into visual culture and literary criticism as well. 
 
-I am primarily a cultural and linguistic anthropologist. My thesis research draws from affect theory, feminist psychoanalysis, and trans feminism in an account of the social and psychological construction of gender violence through representation in horror films.
+My thesis draws from affect theory, feminist psychoanalysis, and trans feminisms in an account of the social and psychological constructions of gender violence in media and film.
 
-Other research interests more broadly include:
+Research interests more broadly include:
 - Affect Theory & Self
 - Biopolitics
 - Medicine & Power
@@ -31,5 +31,6 @@ Other research interests more broadly include:
 - Java
 - HTML/CSS
 - React -->
+For a full PDF copy of my CV, see [here](/assets/pdf/cv.pdf).
 
-Also, I take photos occasionally. [Check them out](https://instagram.com/alxndramc).
+I am also a hobby photographer. Find my photos on [Instagram](https://instagram.com/alxndramc).
