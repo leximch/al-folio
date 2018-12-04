@@ -6,7 +6,7 @@ description: M.A. Student in the Dept. of Anthropology at Georgia State Universi
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: new_prof_pic.jpg
 
 news: false
 social: true
@@ -33,4 +33,4 @@ Research interests more broadly include:
 - React -->
 For a full PDF copy of my CV, see [here](/assets/pdf/cv.pdf).
 
-I am also a hobby photographer. Find my photos on [Instagram](https://instagram.com/alxndramc).
+I am also a hobby photographer. Find me on [Instagram](https://instagram.com/alxndramc).
