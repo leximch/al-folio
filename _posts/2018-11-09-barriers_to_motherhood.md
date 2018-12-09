@@ -1,21 +1,19 @@
 ---
-title: Barriers to Motherhood: Biotechnology, Reproductive Justice, and Transgender Women
+title: "Barriers to Motherhood: Biotechnology, Reproductive Justice, and Transgender Women"
 date: 2018-11-09 12:50:00 Z
 layout: post
-published: false
-description: Notes on masculinities, repulsive characterizations of (trans)femininity, and potential springboards for coalitional feminist/trans activism.
-keywords: transgender, femininity, identity, masculinity, women, transmisogyny, philosophy
+author: Alexandra Chace
+published: true
+description: Summary of trans women's reproductive issues, the role of biotechnology, and the risks of restating trans rperoductivity in normative terms.
+keywords: transgender, transgender women, reproductive activism, reproductive justice, transmisogyny, technology, reproductive technology, motherhood
 ---
 
-##### Alexandra Chace
-##### [achace@student.gsu.edu](#)
-##### National Women’s Studies Association Annual Conference
-##### November 9, 2018
+*This essay was originally presented at the National Women's Studies Association conference on 9 November 2018.*
 
-## Abstract
+### Abstract
 Reproductive activism has typically focused on abortion and pregnancy over other concerns, thereby centering white cisgender women and (increasingly) transgender men. Even trans-inclusive discourse has paid relatively little attention to the reproductive needs and possibilities of transgender women, particularly trans women of color. Accordingly, this paper analyzes how medicalized discourses, unequal access to healthcare, and cissexism intersect to discursively, medically, and legally deny motherhood to transgender women. Furthermore, it envisions contested futures where biotechnologies and reproductive trans bodies trouble "the coherence of a narrative that is already fragile" while potentially perpetuating existing inequities (Strangio 2015, p. 235).
 
-## Introduction
+### Introduction
 Feminist reproductive activism has historically focused narrowly on cisgender women and their reproductive concerns - access to contraception, abortion, and so on. Many feminists and trans activists, however, have and continue to push reproductive rights discourse on the issue of trans inclusion, with some success. If you recall, Planned Parenthood’s Indiana/Kentucky branch caused some controversy back in march for a tweet which reads “Some men have a uterus”, repeated about 11 times. This has been a hot issue in the blogosphere for some time as well. In a 2016 article for the Huffington Post, “activist, advocate, [and] blogger” Tory Smith (those are their words) argues for an approach to trans activism that moves beyond visibility and representation and onto issues of reproductive justice in the trans context. But while Smith speaks of ‘trans people’ and the ‘trans community’, and indeed quotes statistics on anti-trans discrimination undivided by assigned sex or gender identity, it becomes clear in the end that his primary concern is trans men’s experience of pregnancy and their access to gynecological care.
 
 To move into more academic discussions, Laura Nixon’s 2013 article, _ The Right to (Trans) Parent: A Reproductive Justice Approach to Reproductive Rights, Fertility, and Family-Building Issues Facing Transgender People_, gives an overview of trans reproductive rights concerns and points of potential coalitional building. Nixon details a broad series of reproductive concerns, but her primary focus is still on transgender men, and while she does name trans women in particular, it is only very briefly in a bigger conversation around cryopreservation of fertility that promptly refocuses itself onto transgender men, particularly issues relating to the uterus - abortion, pregnancy, etc.
@@ -24,7 +22,7 @@ We often see that, although the scope of reproductive justice has widened to inc
 
 In this paper, I ask: what remains left unsaid, in this utero-centric discourse, for transgender women? By focusing on trans women, and trans people assigned male at birth more broadly, I am not suggesting that trans men and trans people assigned female at birth are inappropriate in their reproductive concerns, or that these concerns do not deserve space within reproductive justice movements. Rather, I am suggesting that there is more to the story of trans reproductive justice, and more opportunities for coalitional forms of reproductive justice that destabilize normative discourses of reproductivity. My hope is that, by focusing on transgender women, we may see opportunities for genital and/or gamete-agnostic reproductive activism, casting a larger net of potential co-collaborators. 
 
-## Barriers to Trans Motherhood
+### Barriers to Trans Motherhood
 I want to begin with an overview of some of the ways transgender women become parents, and the challenges inherent to each method. These include: adoption, sexual intercourse with a partner who has a uterus, becoming a step-parent, and through assisted reproductive technology, namely insemination of a partner’s uterus with the trans woman’s cryopreserved sperm, or insemination of a partner’s uterus with a donor’s cryopreserved sperm.
 
 When trans women, especially teenagers, begin Hormone Replacement Therapy, one of the biggest concerns is the potentially sterilizing effects of estrogen-based hormone therapy and puberty blocker regimens. This is particularly true of trans teenagers, and this loss of fertility remains a hot-button issue in cultural discourses of trans children. For many trans women, spermatogenesis stops completely shortly after beginning hormone therapy, and it is unknown and whether spermatogenesis returns for all trans women after “prolonged estrogen treatment” or not (Wierckx et al, 2012). For trans girls prescribed puberty blockers prior to the onset of masculinizing puberty, spermatogenesis never begins in the first place.
@@ -35,6 +33,7 @@ The proposition that young trans girls should not be allowed to transition due t
 
 For trans women that cannot or do not want to cryopreserve their sperm, donor sperm can be used to inseminate a partner’s uterus. But access to donor sperm is not universal, and opens up entirely new avenues of discrimination, and the discourses around donor insemination are not kind to trans women in particular. In 2003, Patricia Baetens et al. tackled the question: _Should requests for donor insemination on social grounds be expanded to transsexuals?_ In that article, they distinguish between two “subgroups” of trans women, “early presenting males”, primarily attracted to men, and “later-presenting males”, who are characterized as having a history of “transvestite fetishism” and are attracted to women. Trans men, on the other hand, are characterized as “[a]dult females with gender dysphoria”, who “are comparable to early-presenting males and almost invariably experience same-sex attraction", i.e. attraction to women (Baetens et al. 2003, 283). They continue:
 > Although long-term follow-up research of adult transsexuals is limited, it appears that female-to-male transsexuals show fewer psychological disturbances, less psychopathology, have more stable relationships with the female partner, are socially better integrated and have a better economic outcome, and it can therefore be argued that treatment should be limited initially to female-to-male transexuals with a female partner. (Baetens et al 2003, 283).
+
 In their opinion, trans men “seem to be less at risk [than trans women] for psychiatric impairment” (Baetens et al 2003, 283). While 2003 was 15 years ago, the notion that trans women are improper or unsuited for motherhood is pervasive, and directly affects the experience of trans women as parents. 
 
 Beyond the actual process of becoming a parent, there is also the issue of how trans parents are treated - and to what degree they are allowed to be parents - after having children. Faccio et al. (2013) interviewed trans female and cis male parents about their thoughts on trans female parenthood. Cis men’s responses “indicated a belief that transsexual parents are incompetent…view[ing] transsexuality as even contrary to nature and as socially marginalized (‘It’s a little abnormal. It’s plainly abnormal’, ‘You’re going against nature’, ‘It’s not normal ... because what God has given must be and remain’)” (Faccio et al 2013, 1062-1063). The male responses “reveal concern about the healthy growth of children and centre on the assumed psychological harm” (Faccio et al. 2013, 1063). In trans women's responses, meanwhile, we see that trans women “were aware that they were considered 'sick', 'crazy', 'confused', and 'incapable of raising a child' by others” (Faccio et al 2013, 1063). Faccio et al. (2013) quotes Erika, a 58 year-old trans woman, explaining that “[t]he implied concept of transsexuality is sterility: That is, you have a right to gender change if you have your gonads taken out. That’s the idea . . . the basic reason giving you the right to change your documents is sterility” (Faccio et al. 2013, 58).
@@ -42,7 +41,7 @@ Beyond the actual process of becoming a parent, there is also the issue of how t
 In an article from 2015, Gail Hammer provides a case study of Kim, a trans female parent who transitioned after the birth of her children, eventually leading to the end of her marriage with her now ex-wife. Hammer (2015) explains that Kim was “ordered to pay more in child support than she earned”, and that when she was unable to pay, a court threw her into jail. While Kim was in jail, “she was dressed in a woman’s uniform, paraded through every part of the men’s population, and then held in solitary confinement in the wing for violent male offenders” (Hammer 2015, 119). Kim, who was unable to find employment due to anti-trans woman discrimination, was ordered to to pay $994 a month in child support. Although she was imputed to have a net income of $1,800 per month, Kim had never had such an income, even prior to transitioning and had recently chose to pursue her education using federal loan money (Hammer 2015, 124). Hammer explains:
 > The commissioner directed Kim to get a job and commented that Kim’s education was a luxury. The commissioner ordered Kim to “dress as a male” during contact with the children. Though she did not know the children in this case, the commissioner apparently assumed that, by definition, she knew what was best for the children, and that it would be best for the children to avoid confronting the complexity of their parent’s transgender status (Hammer 2015, 125).
 
-## (Non)disruptive Potentials
+### (Non)disruptive Potentials
 For Strangio (2015), “[t]he reality for trans people in reproductive rights discourse is that our bodies complicate the coherence of a narrative that is already fragile because of the fraught and unsettled nature of the legal protection at stake” (Strangio, 235). But the narrative of reproduction, and life itself, is fundamentally biopolitical. In this regime of reproductive control, trans people are targeted, without evidence, for forced sterilization and eugenics. When they do manage to become parents, their parenthood is contested, and their children may be taken away. Trans people are, thus, considered a "threat" to the prevailing cisheteronormative narrative of parenthood.
 
 In her controversial article, first published in August, Lisa Littman describes trans identity as a “social and peer contagion” that passes between members of a peer group (Littman 2018). The notion of transness as a contagion runs deep, and the idea that trans individuals are “sick”, or that their mere presence, especially for trans women, is a danger to a child’s psyche contributes to a certain discourse that frames trans identity in pathogenic terms. As with many other diseases, there is therefore no greater tragedy than to “pass on” transness to children. While other diseases are communicated via blood, sex, physical proximity, and reproduction, so too it is feared that trans identity could work just the same.
@@ -52,3 +51,22 @@ When we look to the future, we often imagine new technologies that will ‘fix�
 It is true, for example, that the prospect of uterus transplant to trans women trouble cisgender discourses of motherhood, and likewise, discourses of womanhood that are predicated on mothering or the ability therein. But who gets these uteruses? Where do they come from? Already, we have technology to assist in (trans) reproduction. But as I have shown, cultural discourses around motherhood, transness, and law already intersect to already deny trans women access to those technologies. When appropriately medicalized and class-privileged trans women are the only trans women able to employ these technologies, trans family making ends up reinforces part of the narrative it purports to destabilize, i.e. that cisnormative and economically privileged people are the most appropriate parents. Similarly, the prospect of these same cisnormative and economically privileged trans women gaining access to surgically transplanted uteruses serves to strengthen the cisnormativity of their bodies and lives.
 
 What I propose is that trans reproductive justice has an opportunity to move beyond the technology of reproduction (“high” technology and body technology, i.e. wombs) and onto the sociality of reproduction, wherein genetic input is not a necessary part parenthood, and wherein trans people do not face discrimination and ridicule as parents. I do not mean to suggest that barriers to access this technology are not important sites of activism, but rather an acknowledgement that these are not the only barriers to reproduction and reproductive justice broadly, equally for trans people and cisgender people, and that broader coalitions are possible.
+
+### References
+
+Baetens, Patricia, M. Camus, and P. Devroey. 2003. “Should Requests for Donor Insemination on Social Grounds Be Expanded to Transsexuals?” Reproductive BioMedicine Online (Reproductive Healthcare Limited) 6 (3): 281.
+
+Faccio, Elena, Elena Bordin, and Sabrina Cipolletta. 2013. “Transsexual Parenthood and New Role Assumptions.” Culture, Health & Sexuality 15 (9): 1055–70. https://doi.org/10.1080/13691058.2013.806676.
+
+Hammer, Gail. 2015. “Transparent: When Legal Fictions and Judicial Imagination Make Facts Disappear, They Enforce Transphobic Discrimination.” Columbia Journal of Gender and Law 30 (January): 119.
+
+Littman, Lisa. 2018. “Rapid-Onset Gender Dysphoria in Adolescents and Young Adults: A Study of Parental Reports.” PLoS ONE 13 (8): 1–41. https://doi.org/10.1371/journal.pone.0202330.
+
+Nixon, Laura. 2013. “The Right to (Trans) Parent: A Reproductive Justice Approach to Reproductive Rights, Fertility, and Family-Building Issues Facing Transgender People.” William & Mary Journal of Women & the Law 20 (1): 73–103.
+
+Smith, Tory. 2016. “Beyond Visibiltiy: The Call for Transgender Reproductive Justice.” Huffington Post (blog). April 21, 2016. https://www.huffingtonpost.com/tory-smith/beyond-visibiltiy-the-cal_b_9748572.html.
+
+Strangio, Chase. 2015. “Can Reproductive Trans Bodies Exist?” CUNY Law Review 19: 223.
+
+Wierckx, Katrien, Isabelle Stuyver, Steven Weyers, Alaa Hamada, Ashok Agarwal, Petra De Sutter, and Guy T’Sjoen. 2012. “Sperm Freezing in Transsexual Women.” Archives Of Sexual Behavior 41 (5): 1069–71. https://doi.org/10.1007/s10508-012-0012-x.
+
