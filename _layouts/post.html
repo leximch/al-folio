@@ -4,9 +4,9 @@ layout: default
 <div class="post">
 
   <header class="post-header">
-    <h2 class="post-title"><strong>{{ page.title }}</strong></h2>
+    <h2 class="page-title"><strong>{{ page.title }}</strong></h2>
     <p class="post-meta"> {% if page.author %} {{ page.author }}{% endif %}
-      <br>
+      •
       {{ page.date | date: "%B %-d, %Y" }}
 
     <!-- {{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} -->

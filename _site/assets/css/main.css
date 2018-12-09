@@ -47,7 +47,7 @@ body { font-family: PT Serif, serif; line-height: 1.5; font-size: 100%; }
 
 h1, h2, h3, h4, h5, h6 { font-family: PT Sans, sans-serif; font-weight: 900; line-height: 1.25; margin-top: 1em; margin-bottom: .5em; }
 
-p, dl, ol, ul { font-size: 1rem; margin-top: 0; margin-bottom: 1rem; }
+p, dl, ol, ul { font-size: 0.95rem; margin-top: 0; margin-bottom: 1rem; }
 
 ol, ul { padding-left: 2rem; }
 
@@ -59,15 +59,15 @@ hr { margin-top: 2rem; margin-bottom: 2rem; }
 
 blockquote { margin-top: 2rem; margin-bottom: 2rem; margin-left: 0; padding-left: 1rem; padding-right: 1rem; }
 
-blockquote, blockquote p { font-size: 1.1rem; font-style: italic; }
+blockquote, blockquote p { font-size: 1.05rem; font-style: italic; }
 
 h1, .h1 { font-size: 2.998rem; }
 
-h2, .h2 { font-size: 1.5rem; }
+h2, .h2 { font-size: 1.25rem; }
 
-h3, .h3 { font-size: 1.1rem; }
+h3, .h3 { font-size: 1.05rem; }
 
-h4, .h4 { font-size: 1rem; }
+h4, .h4 { font-size: 0.95rem; }
 
 h5, .h5 { font-size: 0.875rem; }
 
@@ -346,18 +346,21 @@ footer a:hover { color: #666; }
 
 .center { text-align: center; }
 
+.page-title { font-size: 42px; letter-spacing: -1px; line-height: 1; margin-bottom: 10px; margin-top: 0; }
+
 .post-header { margin-bottom: 40px; padding-top: 10px; }
 
 .post-list { margin: 0; padding: 0; list-style: none; border-top: 1px solid #ccc; }
-.post-list > li { border-bottom: 1px solid #ccc; padding-bottom: 2rem; padding-top: 2rem; }
+.post-list > li { border-bottom: 1px solid #ccc; padding-bottom: 0.5rem; padding-top: 0.5rem; }
 
-.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; margin-bottom: 10px; margin-top: 0; }
+.post-title { font-size: 2em; text-decoration: none; font-weight: bold; letter-spacing: -1px; color: #333; line-height: 1; margin-bottom: 10px; margin-top: 0; }
+.post-title a:hover { text-decoration: none; }
 
-.post-content h2 { font-size: 42px; }
-.post-content h3 { font-size: 30px; }
-.post-content h4 { font-size: 20px; }
+.post-content h2 { font-size: 1.25rem; }
+.post-content h3 { font-size: 1.05rem; }
+.post-content h4 { font-size: 0.95rem; }
 
-.post-meta { color: #333; font-size: 0.875rem; margin-bottom: 0px; margin-left: 0.1em; }
+.post-meta { color: #333; font-size: 0.875rem; margin-bottom: 5px; margin-left: 0.1em; }
 
 .post-link { display: block; font-size: 42px; }
 
@@ -492,8 +495,8 @@ article a:hover, .news a:hover { text-decoration: underline; color: black; }
   h1, .h1 { font-size: 2.998rem; }
   .site-header { text-align: left; }
   .site-nav { margin-top: 0; }
-  .site-header a { font-size: 1rem; }
-  .site-header .site-title { font-size: 1.1rem; float: left; }
+  .site-header a { font-size: 0.95rem; }
+  .site-header .site-title { font-size: 1.05rem; float: left; }
   .site-header .site-nav { float: right; }
   blockquote { margin-left: 2rem; padding: 2rem; }
   .social-icons-left { text-align: left; }

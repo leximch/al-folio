@@ -12,6 +12,8 @@ news: false
 social: false
 ---
 
+Hi! I am an interdisciplinary scholar with a background in anthropology, linguistics, sociology, and 
+
 Hi! I am primarily a linguist and cultural anthropologist, but my work extends into visual culture and literary criticism as well. 
 
 My thesis draws from affect theory, feminist psychoanalysis, and trans feminisms in an account of the social and psychological constructions of gender violence in media and film.
