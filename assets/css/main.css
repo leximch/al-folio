@@ -334,7 +334,7 @@ body { box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: 
 
 .site-wrap { -webkit-box-flex: 1; -webkit-flex: 1; -ms-flex: 1 0 auto; flex: 1 0 auto; }
 
-footer { background-color: #fff; border-top: thin solid #424242; border: 0; color: #fff; color: #333; font-size: 0.75rem; font-weight: 300; padding: 2rem; position: static; left: 0px; bottom: 0px; width: 100%; text-align: center; }
+footer { background-color: #fff; border-top: thin solid #424242; border: 0; color: #fff; color: #333; font-size: 0.75rem; font-weight: 300; padding: 2rem; padding-left: 0; padding-right: 0; margin-left: 0; position: static; left: 0px; bottom: 0px; width: 100%; text-align: center; }
 footer a { color: #333; }
 footer a:hover { color: #666; }
 
