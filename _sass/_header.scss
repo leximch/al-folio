@@ -10,12 +10,16 @@
 }
 
 .site-title {
-    font-size: 22px;
-    font-family: PT Sans, sans-serif;
+    float: left;
     font-weight: bold;
     line-height: $nav-height;
-    letter-spacing: 0px;
-    margin-bottom: 0;
+    .page-link{
+        line-height: $line-height;
+        // Gaps between nav items, but not on the first one
+        &:not(:first-child) {
+            margin-left: 10px;
+        }
+    }
 }
 .site-nav {
     float: right;

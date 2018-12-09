@@ -1,3 +1,5 @@
+.full-text { display: none; }
+
 @media screen and (min-width: $viewport-small) {
   html {
     font-size: 16px;
@@ -41,12 +43,16 @@
   .social-icons-right {
     text-align: right;
   }
+
+  .short-text { display: inline-block; }
 }
 
 @media screen and (min-width: $viewport-medium) {
   html {
     font-size: 18px;
   }
+  .short-text { display: none; }
+  .full-text { display: inline-block; }
 }
 
 @media screen and (min-width: $viewport-large) {

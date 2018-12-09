@@ -3,9 +3,13 @@
   <div class="wrapper">
 
     {% if page.layout != "about" %}
-    <span class="site-title">
+    <span class="site-title full-text">
         {% assign name = site.name | split: ' ' %}
         <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">Alexandra Chace</a>
+    </span>
+    <span class="site-title short-text">
+        {% assign name = site.name | split: ' ' %}
+        <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">Home</a>
     </span>
     {% endif %}
 
