@@ -59,13 +59,13 @@ hr { margin-top: 2rem; margin-bottom: 2rem; }
 
 blockquote { margin-top: 2rem; margin-bottom: 2rem; margin-left: 0; padding-left: 1rem; padding-right: 1rem; }
 
-blockquote, blockquote p { font-size: 1.25rem; font-style: italic; }
+blockquote, blockquote p { font-size: 1.1rem; font-style: italic; }
 
 h1, .h1 { font-size: 2.998rem; }
 
 h2, .h2 { font-size: 1.5rem; }
 
-h3, .h3 { font-size: 1.25rem; }
+h3, .h3 { font-size: 1.1rem; }
 
 h4, .h4 { font-size: 1rem; }
 
@@ -493,7 +493,7 @@ article a:hover, .news a:hover { text-decoration: underline; color: black; }
   .site-header { text-align: left; }
   .site-nav { margin-top: 0; }
   .site-header a { font-size: 1rem; }
-  .site-header .site-title { font-size: 1.25rem; float: left; }
+  .site-header .site-title { font-size: 1.1rem; float: left; }
   .site-header .site-nav { float: right; }
   blockquote { margin-left: 2rem; padding: 2rem; }
   .social-icons-left { text-align: left; }
