@@ -28,7 +28,7 @@ google_analytics: UA-121343197-1 # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: blog
+blog_name: essays
 blog_description: a collection of thoughts
 
 # Pagination

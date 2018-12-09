@@ -4,7 +4,7 @@ date: 2018-11-09 12:50:00 Z
 layout: post
 author: Alexandra Chace
 published: true
-description: Summary of trans women's reproductive issues, the role of biotechnology, and the risks of restating trans rperoductivity in normative terms.
+description: Summary of trans women's reproductive issues, the role of biotechnology, and the risks of restating trans reproductivity in normative terms.
 keywords: transgender, transgender women, reproductive activism, reproductive justice, transmisogyny, technology, reproductive technology, motherhood
 ---
 
