@@ -6,8 +6,7 @@ email: achacega@gmail.com
 description: > # this means to ignore newlines until "url:"
   Atlanta-based Anthropology grad student.
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Creative Commons BY-NC-SA 4.0.
 url:  http://panopticonic.xyz # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
