@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /work/
-title: Work
+permalink: /vitae/
+title: Vitae
 description: Academic publications & conference proceedings in reverse chronological order.
 conf_years: [2019, 2018, 2017]
 pub_years: [2017]
