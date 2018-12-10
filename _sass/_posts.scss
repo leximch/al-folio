@@ -31,6 +31,10 @@
 		
 	};
 }
+.double-space {
+    p { line-height: 1.75; }
+}
+
 .post-content {
     h2 {
         font-size: $h2;
