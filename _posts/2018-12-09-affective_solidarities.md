@@ -8,7 +8,7 @@ description: Response to renewed calls for women's anger in the light of the Kav
 keywords: women, feminism, anger, Kavanaugh, patriarchy, rape culture, misogyny, identity, affect, theory, philosophy
 ---
 
-*This essay was originally written for Dr. Jennifer Patico's "Anthropology of Self & Emotion" on 5 November 2018.*
+*This essay was originally written for Dr. Jennifer Patico's "Anthropology of Self & Emotion".*
 
 The Kavanaugh hearings brought forth a battery of rhetoric about what women *feel* and what women *are*, both in liberal feminist and explicitly anti-feminist terms. In an opinion piece for *The New York Times*, feminist author Rebecca Traister claims that “women were incandescent with rage and sorrow and horror…getting angry in a new way, a public way, an unapologetic way” (Traister 2018). Beyond her personal feelings, Traister reports having seen “hundreds of messages from women who reported the same experience, of finding themselves awash in tears” in response to Dr. Ford’s account before the U.S. Senate. 
 
