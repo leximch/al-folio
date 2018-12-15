@@ -8,7 +8,7 @@ description: Summary of trans women's reproductive issues, the role of biotechno
 keywords: transgender, transgender women, reproductive activism, reproductive justice, transmisogyny, technology, reproductive technology, motherhood
 ---
 
-*This essay was originally presented at the National Women's Studies Association conference.*
+*This essay was originally presented at the National Women's Studies Association conference*.
 
 <!-- ### Abstract -->
 <!-- Reproductive activism has typically focused on abortion and pregnancy over other concerns, thereby centering white cisgender women and (increasingly) transgender men. Even trans-inclusive discourse has paid relatively little attention to the reproductive needs and possibilities of transgender women, particularly trans women of color. Accordingly, this paper analyzes how medicalized discourses, unequal access to healthcare, and cissexism intersect to discursively, medically, and legally deny motherhood to transgender women. Furthermore, it envisions contested futures where biotechnologies and reproductive trans bodies trouble "the coherence of a narrative that is already fragile" while potentially perpetuating existing inequities (Strangio 2015, p. 235). -->

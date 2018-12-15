@@ -1,5 +1,5 @@
 ---
-title: "Revisiting 'Woman': Provisional Emotions and Affective Queer Solidarities"
+title: "Should Women Be Angry? Provisional Emotions and Affective Queer Solidarities"
 date: 2018-11-05 12:50:00 Z
 layout: post
 author: Alexandra Chace
@@ -7,8 +7,6 @@ published: true
 description: Response to renewed calls for women's anger in the light of the Kavanaugh hearings, exploring issues of identity and shared anger and their role in (non)disruptive politics.
 keywords: women, feminism, anger, Kavanaugh, patriarchy, rape culture, misogyny, identity, affect, theory, philosophy
 ---
-
-*This essay was originally written for Dr. Jennifer Patico's "Anthropology of Self & Emotion".*
 
 The Kavanaugh hearings brought forth a battery of rhetoric about what women *feel* and what women *are*, both in liberal feminist and explicitly anti-feminist terms. In an opinion piece for *The New York Times*, feminist author Rebecca Traister claims that “women were incandescent with rage and sorrow and horror…getting angry in a new way, a public way, an unapologetic way” (Traister 2018). Beyond her personal feelings, Traister reports having seen “hundreds of messages from women who reported the same experience, of finding themselves awash in tears” in response to Dr. Ford’s account before the U.S. Senate. 
 
