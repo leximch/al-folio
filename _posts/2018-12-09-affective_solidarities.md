@@ -1,5 +1,5 @@
 ---
-title: "Should Women Be Angry? Provisional Emotions and Affective Queer Solidarities"
+title: "Are All Women Angry About This? Notes on Identity Politics and Affective Solidarities"
 date: 2018-11-05 12:50:00 Z
 layout: post
 author: Alexandra Chace
