@@ -1,10 +1,10 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Alexandra Chace
-email: achacega@gmail.com
+name: Alex Chace
+email: achacega@outlook.com
 description: > # this means to ignore newlines until "url:"
-  Atlanta-based Anthropology grad student.
+  Atlanta-based Anthropology M.A. student.
 footer_text: >
   Creative Commons BY-NC-SA 4.0.
 url:  http://panopticonic.xyz # the base hostname & protocol for your site
@@ -16,7 +16,7 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 github_username: leximch # put your github username
 instagram_username: alxndramc
-twitter_username: leximch # put your twitter username
+twitter_username: alreadyseveral # put your twitter username
 linkedin_username: leximch # put your linkedin username
 scholar_authorid: E0qxRfYAAAAJ # put your google scholar author id
 contact_note: >

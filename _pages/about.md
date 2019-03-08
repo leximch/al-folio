@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Alexandra</strong> Chace
-description: M.A. Student in the Dept. of Anthropology at Georgia State University.
+title: <strong>Alex</strong> Chace
+description: M.A. Student, Dept. of Anthropology, Georgia State University.
 
 profile:
   align: right
@@ -18,13 +18,11 @@ I am currently working on my M.A. thesis, which draws from affect theory, psycho
 
 My research interests more broadly include:
 - Affect Theory
-<!-- - Biopolitics -->
-- Medicine & Power
-- Philosophy of Self
+- Digital Humanities
+- Film Narrative
+- Gender & Medicalization
 - Psychoanalysis
-<!-- - Gender & Class -->
-- Queer Theory & Transfeminisms
-- Gender, Horror, and Science Fiction
+- Queer Theory & Transfeminism
 
 <!-- I'm also a developer with experience in a wide range of technologies, including:
 - Ruby
