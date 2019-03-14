@@ -12,7 +12,7 @@ news: false
 social: false
 ---
 
-Hi! I am an interdisciplinary scholar with a background in anthropology, linguistics, sociology, software development, and literature.
+Hi! I am an interdisciplinary anthropologist and gender studies scholar with a background in linguistics, sociology, software development, and literature.
 
 I am currently working on my M.A. thesis, which draws from affect theory, psychoanalysis, and queer theory in accounting for the social and psychological construction of gender violence in film and media.
 
