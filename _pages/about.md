@@ -6,7 +6,7 @@ description: M.A. Student, Dept. of Anthropology, Georgia State University.
 
 profile:
   align: right
-  image: prof_pic2.jpg
+  image: new_prof_pic.jpg
 
 news: false
 social: false
